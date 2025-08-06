@@ -1,0 +1,33 @@
+# Flutter & Dart
+.build/
+.dart_tool/
+.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Android
+/android/.gradle/
+/android/.idea/
+/android/local.properties
+/android/key.properties
+
+# iOS
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Generated.xcconfig
+
+# macOS & Misc
+.DS_Store
+*.log
+*.lock
+*.tmp
+
+# Personal sensitive files
+*.keystore
