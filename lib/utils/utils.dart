@@ -14,3 +14,7 @@ Future<Uint8List?> pickImage(ImageSource source) async {
 
   print('No image selected'); // If user canceled
 }
+
+showSnackBar(String content, BuildContext context) {
+  ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(content)));
+}

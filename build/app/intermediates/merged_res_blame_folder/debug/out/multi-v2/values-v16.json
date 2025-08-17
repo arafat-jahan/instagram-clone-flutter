@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.instagram_flutter.app-mergeDebugResources-24:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Arafat Jahan\\.gradle\\caches\\transforms-3\\a296ed9be3f17789a2947446d03a2146\\transformed\\core-1.10.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
